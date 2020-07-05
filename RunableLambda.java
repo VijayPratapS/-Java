@@ -2,9 +2,6 @@ package java8prj;
 
 public class RunableLambda
 {
-	
-	
-	
 	public static void main(String[]args) throws InterruptedException
 	{
 		Runnable runnable=()->
