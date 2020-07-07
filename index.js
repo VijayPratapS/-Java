@@ -8,3 +8,12 @@ let person={
 console.log(person.name);
 let colors=['red','green'];
 console.log(colors[0]);
+let c=4;
+console.log(recursive(4));
+function recursive(n)
+{
+    if(n<1)
+        return 1;
+    else
+        return n*recursive(n-1);
+}
