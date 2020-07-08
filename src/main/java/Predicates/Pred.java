@@ -1,4 +1,4 @@
-package java8prj;
+package Predicates;
 
 import java.util.function.Predicate;
 

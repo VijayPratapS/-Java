@@ -1,4 +1,4 @@
-package java8prj;
+package Lamdademo;
 
 public class RunableLambda
 {

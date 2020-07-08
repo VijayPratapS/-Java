@@ -1,4 +1,4 @@
-package java8prj;
+package Stream;
 
 import java.util.Arrays;
 import java.util.List;

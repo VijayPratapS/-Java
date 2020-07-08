@@ -1,4 +1,4 @@
-package java8prj;
+package BookServiceWithStram;
 
 import lombok.Data;
 
